@@ -1,7 +1,7 @@
  # Personal Portfolio
  
 DEPLOYMENT LINK 
-https://calvinkhoza.github.io/personal-portfolio-/#hero
+https://rococo-sawine-114d31.netlify.app/
 
 # 🌐 DevOps Engineer Portfolio
 
